@@ -44,6 +44,14 @@ Tất cả thay đổi phải thông qua Pull Request và review bởi ít nhấ
 - Tuân thủ coding convention của nhóm.
 - Cung cấp feedback rõ ràng.
 
----
+
+
+## ✨ Thành viên: Nguyễn Mai Hương
+
+- Công việc đảm nhận: Viết kế hoạch test, thực hiện kiểm thử và báo cáo kết quả.
+- 📁 Thư mục cá nhân: [`Test_NguyenMaiHuong`](./Test_NguyenMaiHuong)
+- 📄 Tài liệu đính kèm:
+  - [Kế hoạch kiểm thử (Test Plan)](./Test_NguyenMaiHuong/TestPlan-SystemTesting.docx)
+  - [Báo cáo kết quả test (System Test Report)](./Test_NguyenMaiHuong/G12_SystemTest.xlsx)
 
 
